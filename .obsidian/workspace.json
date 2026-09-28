@@ -39,10 +39,14 @@
             "id": "bc9580d9a85dee32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização de diagrama de grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Protagonista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Protagonista"
             }
           },
           {
@@ -212,12 +216,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -232,11 +236,10 @@
       "daily-notes:Abrir nota de hoje": false,
       "templates:Inserir templates": false,
       "command-palette:Abrir paleta de comando": false,
-      "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Criar nova base": false
     }
   },
-  "active": "bc9580d9a85dee32",
+  "active": "7ac1a568993cc14f",
   "lastOpenFiles": [
     "Personagens/Protagonista.md",
     "Geral/GDD Da Prof.md",
