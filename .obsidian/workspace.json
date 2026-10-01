@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Protagonista.md",
+                "file": "Geral/GDD Da Prof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protagonista"
+              "title": "GDD Da Prof"
             }
           },
           {
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Protagonista.md",
+                "file": "Geral/GDD Da Prof.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -242,13 +242,13 @@
   "active": "b9116d44507a9f9a",
   "lastOpenFiles": [
     "ref-protagonista.png",
+    "Geral/GDD Da Prof.md",
+    "Geral/Ideia Do Jogo.md",
     "Personagens/Protagonista.md",
     "image 1.png",
     "image 2.png",
-    "Geral/Ideia Do Jogo.md",
     "Mapas/Quarto.md",
     "Mapas/Sala De Aula.md",
-    "Geral/GDD Da Prof.md",
     "Personagens/Colegas.md",
     "Personagens/Professor.md",
     "Mapas/Sala De Estar.md",
