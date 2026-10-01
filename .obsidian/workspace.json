@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapas/Sala De Aula.md",
+                "file": "Geral/GDD Da Prof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sala De Aula"
+              "title": "GDD Da Prof"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,13 +201,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Protagonista.md",
+                "file": "Geral/GDD Da Prof.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Índice"
+            }
+          },
+          {
+            "id": "43446e579b9bd39c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -229,7 +239,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "bc9580d9a85dee32",
+  "active": "b9116d44507a9f9a",
   "lastOpenFiles": [
     "Personagens/Professor.md",
     "Personagens/Colegas.md",
@@ -237,8 +247,14 @@
     "Geral/GDD Da Prof.md",
     "Geral/Ideia Do Jogo.md",
     "Mapas/Sala De Estar.md",
+    "ref-protagonista.png",
+    "image 1.png",
+    "image 2.png",
     "Mapas/Quarto.md",
     "Mapas/Sala De Aula.md",
+    "Personagens/Colegas.md",
+    "Personagens/Professor.md",
+    "Mapas/Sala De Estar.md",
     "Mapas",
     "Untitled",
     "Geral",
