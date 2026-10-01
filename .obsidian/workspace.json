@@ -53,18 +53,18 @@
             "id": "b9981667ee8a92e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Professores.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Professores"
+              "title": "Nova aba"
             }
           }
         ],
+<<<<<<< Updated upstream
         "currentTab": 1
+=======
+        "currentTab": 3
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -201,7 +201,10 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Geral/GDD Da Prof.md",
+=======
+>>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -239,22 +242,30 @@
       "bases:Criar nova base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "b9116d44507a9f9a",
+=======
+  "active": "b9981667ee8a92e3",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
-    "Personagens/Professor.md",
-    "Personagens/Colegas.md",
     "Personagens/Protagonista.md",
     "Geral/GDD Da Prof.md",
+    "Mapas/Sala De Aula.md",
+    "Personagens/Professor.md",
+    "Personagens/Colegas.md",
     "Geral/Ideia Do Jogo.md",
     "Mapas/Sala De Estar.md",
     "ref-protagonista.png",
     "image 1.png",
     "image 2.png",
     "Mapas/Quarto.md",
+<<<<<<< Updated upstream
     "Mapas/Sala De Aula.md",
     "Personagens/Colegas.md",
     "Personagens/Professor.md",
     "Mapas/Sala De Estar.md",
+=======
+>>>>>>> Stashed changes
     "Mapas",
     "Untitled",
     "Geral",
