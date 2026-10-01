@@ -27,22 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mapas/Sala De Aula.md",
+                "file": "Personagens/Protagonista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sala De Aula"
+              "title": "Protagonista"
             }
           },
           {
             "id": "bc9580d9a85dee32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização de diagrama de grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Colegas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colegas"
             }
           },
           {
@@ -60,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,6 +209,16 @@
               "icon": "lucide-list",
               "title": "Índice"
             }
+          },
+          {
+            "id": "43446e579b9bd39c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
           }
         ],
         "currentTab": 4
@@ -222,20 +236,22 @@
       "daily-notes:Abrir nota de hoje": false,
       "templates:Inserir templates": false,
       "command-palette:Abrir paleta de comando": false,
-      "bases:Criar nova base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Criar nova base": false
     }
   },
-  "active": "bc9580d9a85dee32",
+  "active": "b9116d44507a9f9a",
   "lastOpenFiles": [
-    "Personagens/Protagonista.md",
-    "Geral/GDD Da Prof.md",
+    "image 2.png",
+    "image 1.png",
+    "image.png",
     "Geral/Ideia Do Jogo.md",
-    "Personagens/Professor.md",
-    "Personagens/Colegas.md",
-    "Mapas/Sala De Estar.md",
     "Mapas/Quarto.md",
     "Mapas/Sala De Aula.md",
+    "Geral/GDD Da Prof.md",
+    "Personagens/Colegas.md",
+    "Personagens/Professor.md",
+    "Personagens/Protagonista.md",
+    "Mapas/Sala De Estar.md",
     "Mapas",
     "Untitled",
     "Geral",
