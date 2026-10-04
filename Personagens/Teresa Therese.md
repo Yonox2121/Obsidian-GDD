@@ -1,0 +1,1 @@
+A artista da turma, meio timida, mas anda sempre com o grupo, muito talentosa nas suas artes, e mesmo com sua timidez, sempre disposta a dar uma ajuda na arte do seus colegas.

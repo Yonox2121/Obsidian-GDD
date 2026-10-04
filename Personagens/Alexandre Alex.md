@@ -1,0 +1,1 @@
+Alexandre o extrovertido pode é um grande amigo da [[Maria Mary]], então juntos eles são quem conseguem sempre juntar a turma toda, deixando varias pessoas individuais, num grupo grande e uma turma unida e junta.

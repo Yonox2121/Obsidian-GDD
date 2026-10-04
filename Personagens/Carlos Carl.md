@@ -1,0 +1,1 @@
+Carlos irmão gêmeo do [[Bartolomeu Bart]] ambos, muito dedicados no que gostam, amam trabalhar em conjunto, ambos trabalham como se fossem um só, sendo muito observadores, mas com personalidades diferentes, sendo Carlos mais nerd e estudioso a parte mais "teorica".

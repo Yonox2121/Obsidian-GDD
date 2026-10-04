@@ -1,0 +1,1 @@
+Bartolomeu o irmão gemeo do [[Carlos Carl]] , muito dedicados no que gostam, amam trabalhar em conjunto, ambos trabalham como se fossem um só, sendo muito observadores, mas com personalidades diferentes, sendo Bartolomeu mais "solto", sendo mais criativo com varias ideias.

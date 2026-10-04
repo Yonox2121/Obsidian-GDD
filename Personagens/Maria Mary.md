@@ -1,0 +1,1 @@
+Maria uma moça popular e extrovertida, sempre a alma do grupo quando estão embaixo, ama comics, filmes, jogos, etc... sempre bem disposta e animada.

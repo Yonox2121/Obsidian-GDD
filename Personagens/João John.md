@@ -1,0 +1,1 @@
+Um rapaz bem tranquilo, esperto, sempre com notas incríveis, e reconhecido pela sua inteligência e personalidade calma, sempre muito bem vestido e com ótimas maneiras.
