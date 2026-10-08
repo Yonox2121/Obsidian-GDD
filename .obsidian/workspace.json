@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "6fd68cf2f8fcf248",
+    "id": "08cb6c9c164ce274",
     "type": "split",
     "children": [
       {
-        "id": "3b89744b4dd54151",
+        "id": "48de9c50af963438",
         "type": "tabs",
         "children": [
           {
-            "id": "dadd7f6cf1945647",
+            "id": "b9294945aff28e29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Colegas.md",
+                "file": "Personagens/Protagonista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colegas"
+              "title": "Protagonista"
             }
           }
         ]
@@ -27,28 +27,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6016b1f83a44c5d8",
+    "id": "7baa1e157ed74e1f",
     "type": "split",
     "children": [
       {
-        "id": "daa57d90ecd0edb3",
+        "id": "385a716349dd25bd",
         "type": "tabs",
         "children": [
           {
-            "id": "0d149bd92e099ec8",
+            "id": "a1c979c0b9b39456",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de ficheiros"
             }
           },
           {
-            "id": "8a41d8eae6f5f94d",
+            "id": "4324736d6f6a57ef",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +67,7 @@
             }
           },
           {
-            "id": "194e965adb005283",
+            "id": "84c2cf2756b2f1cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "d136af59ab008e80",
+    "id": "b168b622455a0b28",
     "type": "split",
     "children": [
       {
-        "id": "8c59d6d8f3554a9f",
+        "id": "8283f7bf1d513d96",
         "type": "tabs",
         "children": [
           {
-            "id": "bbceb52060cbe687",
+            "id": "5e277458a780ba33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geral/GDD Da Prof.md",
+                "file": "Personagens/Teresa Therese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,12 +113,12 @@
             }
           },
           {
-            "id": "8a2e3cd9902f0cd3",
+            "id": "237ed50fe4b077a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geral/GDD Da Prof.md",
+                "file": "Personagens/Teresa Therese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -125,7 +127,7 @@
             }
           },
           {
-            "id": "9a961cf525b0f242",
+            "id": "1acad632e7526cfb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +142,7 @@
             }
           },
           {
-            "id": "b10278cc8bd17cd0",
+            "id": "12ccdccb4d1bb287",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,12 +156,12 @@
             }
           },
           {
-            "id": "62f2dbf6314f5512",
+            "id": "175ba1f8c3425f1e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geral/GDD Da Prof.md",
+                "file": "Personagens/Teresa Therese.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -177,31 +179,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
-      "bases:Create new base": false
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Criar novo Canvas": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "publish:Publicar alterações": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "dadd7f6cf1945647",
+  "active": "b9294945aff28e29",
   "lastOpenFiles": [
-    "Personagens/João John.md",
-    "Personagens/Maria Mary.md",
-    "Personagens/Protagonista.md",
-    "Personagens/Bartolomeu Bart.md",
-    "Personagens/Teresa Therese.md",
-    "Personagens/Colegas.md",
-    "Personagens/Alexandre Alex.md",
-    "Personagens/Professor.md",
-    "João/João John.md",
-    "Personagens/Carlos Carl.md",
+    "ref-protagonista-v2.png",
     "ref-protagonista.png",
-    "João",
-    "Geral/GDD Da Prof.md",
-    "Geral/Ideia Do Jogo.md"
+    "Personagens/Protagonista.md",
+    "Personagens/Colegas.md",
+    "Mapas/Quarto.md",
+    "Personagens/Teresa Therese.md",
+    "Personagens/Professor.md",
+    "Personagens/Maria Mary.md",
+    "Personagens/João John.md",
+    "Personagens/Carlos Carl.md",
+    "Personagens/Bartolomeu Bart.md",
+    "Personagens/Alexandre Alex.md"
   ]
 }
