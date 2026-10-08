@@ -1,0 +1,4 @@
+O protagonista, acorda com um um anjinho no seu ombro, ele não repara em imediato até o mesmo falar com ele, deixando o protagonista em choque, e de boca aberta, recusando a ajuda do anjo em inicio mas depois de o anjo ser bem direto, ele acaba por aceitar a ajuda dele.
+La ele levanta-se da cama, e vai para a cozinha, para comer o pequeno almoço, la encontra os pais, que também estavam a se preparar para ir trabalhar, e logo aí, seus pais adicionam-lhe mais ansiedade ao dizerem o quão tem expectativa alta nele e que terá boas notas.
+Então uma escolha remete ao jogador, comer o pequeno almoço uma tosta cheia de manteiga derretida e um sumo de laranja, ou não comer, SE ele comer quando ele for fazer apresentação de si a turma, ele irá receber mais ansiedade do que o normal.
+
