@@ -1,0 +1,1 @@
+algum som de luta, ainda irei ver mais especifico, para ver que ataques poderia ter para depois pensar em algum som parecido
