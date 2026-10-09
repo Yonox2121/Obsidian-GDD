@@ -6,4 +6,6 @@ Quando chega na sala, ele chega em cima da hora, fazendo com que todos olhem par
 
 Apos a apresentação, ele poderá conhecer um pouco de cada colega, saber mais ou menos como eles são em personalidade etc... apenas para saber como eventualmente cada um irá reagir a diferentes coisas que o player poderá escolher dizer.
 
+no fim das aulas os colegas dão ao protagonista, o discord da turma, dando a chance do player poder ir ao computador quando chegar a casa, se ele for, ele vai ver a turma em chamada, e irá receber ansiedade pensando se deve ou não entrar, havera um quick time event para saber se entra ou não, se ele conseguir, a ansiedade abaixa um pouco, se for para a cama sem ir para a chamada, aumentará a ansiedade.
+
 Se o jogador terminar o dia com 50 ou mais de ansiedade, ele terá uma luta, contra os monstros da ansiedade, depressão e paranoia quando for dormir.
