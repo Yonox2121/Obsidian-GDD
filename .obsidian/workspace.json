@@ -11,17 +11,82 @@
             "id": "b9294945aff28e29",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização de diagrama de grafo"
+            }
+          },
+          {
+            "id": "5dedd8e57e648df6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagens/ref-protagonista-v2.png"
+              },
+              "icon": "lucide-image",
+              "title": "ref-protagonista-v2"
+            }
+          },
+          {
+            "id": "13fb38dd0e06df28",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia/Dia 1 Segunda Feira.md",
+                "file": "Historia/Dia 1 Segunda-Feira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dia 1 Segunda Feira"
+              "title": "Dia 1 Segunda-Feira"
+            }
+          },
+          {
+            "id": "276fb39165aefec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historia/Dia 3 Quarta-Feira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dia 3 Quarta-Feira"
+            }
+          },
+          {
+            "id": "90709cb11c66a028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historia/Dia 4 Quinta-Feira.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dia 4 Quinta-Feira"
+            }
+          },
+          {
+            "id": "eeff45bd08da856e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens/Alexandre Alex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alexandre Alex"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,28 +254,35 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "b9294945aff28e29",
+  "active": "eeff45bd08da856e",
   "lastOpenFiles": [
+    "Personagens/Carlos Carl.md",
+    "Personagens/Teresa Therese.md",
+    "Personagens/Protagonista.md",
     "Personagens/Professor.md",
     "Personagens/Maria Mary.md",
-    "Personagens/João John.md",
-    "Personagens/Colegas.md",
-    "Historia/Dia 1 Segunda Feira.md",
-    "Personagens/Protagonista.md",
-    "Personagens/Alexandre Alex.md",
     "Personagens/Bartolomeu Bart.md",
+    "Personagens/Alexandre Alex.md",
+    "Personagens/Colegas.md",
+    "Personagens/João John.md",
+    "Sem título.canvas",
+    "Historia/Dia 1 Segunda-Feira.md",
+    "Imagens/ref-protagonista-v2.png",
+    "Geral/Persona.md",
+    "Imagens",
+    "Historia/Dia 3 Quarta-Feira.md",
+    "Historia/Dia 5 Sexta-Feira.md",
+    "Historia/Dia 4 Quinta-Feira.md",
+    "Historia/Dia 2 Terça-Feira.md",
     "Sons/Falar.md",
     "Sons/luta.md",
     "Sons/passos.md",
     "Sons/Porta abrir.md",
     "Mapas/Sala De Estar.md",
     "Geral/GDD Da Prof.md",
-    "Personagens/Teresa Therese.md",
-    "ref-protagonista-v2.png",
     "Sons",
     "Historia",
     "ref-protagonista.png",
-    "Mapas/Quarto.md",
-    "Personagens/Carlos Carl.md"
+    "Mapas/Quarto.md"
   ]
 }

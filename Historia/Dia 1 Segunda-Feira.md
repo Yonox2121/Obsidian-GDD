@@ -6,4 +6,4 @@ Quando chega na sala, ele chega em cima da hora, fazendo com que todos olhem par
 
 Apos a apresentação, ele poderá conhecer um pouco de cada colega, saber mais ou menos como eles são em personalidade etc... apenas para saber como eventualmente cada um irá reagir a diferentes coisas que o player poderá escolher dizer.
 
-Se o jogador terminar o dia com 50 ou mais de ansiedade, ele terá uma luta, contra os monstros da ansiedade, derpessão e paranoia quando for dormir.
+Se o jogador terminar o dia com 50 ou mais de ansiedade, ele terá uma luta, contra os monstros da ansiedade, depressão e paranoia quando for dormir.
