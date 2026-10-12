@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Alexandre Alex.md",
+                "file": "Historia/Dia 1 Segunda-Feira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexandre Alex"
+              "title": "Dia 1 Segunda-Feira"
             }
           },
           {
@@ -272,12 +272,22 @@
   "lastOpenFiles": [
     "Historia/Dia 2 Terça-Feira.md",
     "Historia/Dia 1 Segunda-Feira.md",
+    "Sons/Falar.md",
+    "Sons/luta.md",
+    "Personagens/Carlos Carl.md",
+    "Personagens/Colegas.md",
+    "Personagens/Alexandre Alex.md",
+    "Personagens/Teresa Therese.md",
+    "Personagens/João John.md",
+
     "Historia/Dia 5 Sexta-Feira.md",
     "Historia/Dia 4 Quinta-Feira.md",
     "Historia/Dia 3 Quarta-Feira.md",
     "Personagens/João John.md",
     "Personagens/Bartolomeu Bart.md",
     "Personagens/Alexandre Alex.md",
+    "Personagens/João John.md",
+
     "Personagens/Colegas.md",
     "Personagens/Maria Mary.md",
     "Personagens/Professor.md",
@@ -292,11 +302,8 @@
     "Sons/luta.md",
     "Sons/passos.md",
     "Sons/Porta abrir.md",
-    "Mapas/Sala De Estar.md",
-    "Geral/GDD Da Prof.md",
     "Sons",
     "Historia",
-    "ref-protagonista.png",
-    "Mapas/Quarto.md"
+    "ref-protagonista.png"
   ]
 }
