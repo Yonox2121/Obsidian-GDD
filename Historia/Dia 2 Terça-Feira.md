@@ -1,5 +1,6 @@
+No inicio do dia, o personagem acorda atrasado, afinal, não esta acostumado a ter de acordar cedo para ir a universidade, ele acorda com a sua mãe lhe acordando dando mais ansiedade, tendo de fazer com que ele tenha de manter a cabeça no lugar, fazendo um QTE, e então o player terá de fazer um monte de tarefas antes de ires como, vestir-se, lavar os dentes, limpar a loiça porque o teu pai obrigou/pediu, etc... sendo alguns QTE para poder atrapalhar o player, até finalmente chegar a sala de aula, e se ele chegou antes de o tempo terminar ele consegue chegar a tempo, se não chegar a tempo a ansiedade aumenta.
 
-
-
+Chegando na sala, ele vé que o lugar que antes tinha sentado está ocupado, o obrigando a ficar sentado numa cadeira mais a frente, o que lhe vai causar muita muita paranoia.
+Sentado aí, alguns dos colegas, atras dele irão rir em quanto o Sadi/protagonista irá desenhar, aumentando a ansiedade/paranoia dele, ja que ele pensa que estão a rir do desenho dele. Porem se ele ir falar com eles apos a aula, ele terá a escolha de perguntar sobre o que estavam a rir antes, e eles apenas irão dizer que era de um meme que viram no telemovel, o que irá diminuir a ansiedade dele, como recompensa em enfrentar a ansiedade dele. Ou poderá apenas, ignorar e perguntar outra coisa aleatória que não dará recompensa nenhuma.
 
 no fim das aulas os colegas dão ao protagonista, o Campfire(Discord) da turma, dando a chance do player poder ir ao computador quando chegar a casa, se ele for, ele vai ver a turma em chamada, e irá receber ansiedade pensando se deve ou não entrar, havera um quick time event para saber se entra ou não, se ele conseguir, a ansiedade abaixa um pouco, se for para a cama sem ir para a chamada, aumentará a ansiedade.
