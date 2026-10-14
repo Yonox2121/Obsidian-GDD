@@ -91,12 +91,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia/Dia 2 Terça-Feira.md",
+                "file": "Geral/GDD Da Prof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dia 2 Terça-Feira"
+              "title": "GDD Da Prof"
             }
           }
         ],
@@ -270,8 +270,8 @@
   },
   "active": "00643e0fbe70da37",
   "lastOpenFiles": [
-    "Historia/Dia 1 Segunda-Feira.md",
     "Historia/Dia 2 Terça-Feira.md",
+    "Historia/Dia 1 Segunda-Feira.md",
     "Sons/Falar.md",
     "Sons/luta.md",
     "Personagens/Carlos Carl.md",
