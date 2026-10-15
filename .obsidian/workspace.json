@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia/Dia 1.md",
+                "file": "Personagens/Alexandre Alex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dia 1"
+              "title": "Alexandre Alex"
             }
           }
         ]
@@ -191,24 +191,28 @@
   },
   "active": "b9294945aff28e29",
   "lastOpenFiles": [
+    "Personagens/João John.md",
+    "Personagens/Colegas.md",
+    "Personagens/Alexandre Alex.md",
+    "Personagens/Bartolomeu Bart.md",
+    "Personagens/Carlos Carl.md",
+    "Personagens/Maria Mary.md",
     "Personagens/Protagonista.md",
+    "Personagens/Professor.md",
+    "Personagens/Teresa Therese.md",
+    "Geral/GDD Da Prof.md",
+    "Geral/Ideia Do Jogo.md",
+    "Mapas/Sala De Estar.md",
+    "Mapas/Quarto.md",
+    "Mapas/Sala De Aula.md",
+    "Historia/Dia 1.md",
     "Sons/Porta abrir.md",
     "Sons/passos.md",
     "Sons/luta.md",
     "Sons/Falar.md",
     "Sons",
-    "Historia/Dia 1.md",
     "Historia",
     "ref-protagonista-v2.png",
-    "ref-protagonista.png",
-    "Personagens/Colegas.md",
-    "Mapas/Quarto.md",
-    "Personagens/Teresa Therese.md",
-    "Personagens/Professor.md",
-    "Personagens/Maria Mary.md",
-    "Personagens/João John.md",
-    "Personagens/Carlos Carl.md",
-    "Personagens/Bartolomeu Bart.md",
-    "Personagens/Alexandre Alex.md"
+    "ref-protagonista.png"
   ]
 }
