@@ -1,120 +1,41 @@
 {
   "main": {
-    "id": "08cb6c9c164ce274",
+    "id": "b3c570fa9abe07cb",
     "type": "split",
     "children": [
       {
-        "id": "48de9c50af963438",
+        "id": "c80bf45f934d02b4",
         "type": "tabs",
         "children": [
           {
-            "id": "b9294945aff28e29",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização de diagrama de grafo"
-            }
-          },
-          {
-            "id": "5dedd8e57e648df6",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Imagens/ref-protagonista-v2.png"
-              },
-              "icon": "lucide-image",
-              "title": "ref-protagonista-v2"
-            }
-          },
-          {
-            "id": "13fb38dd0e06df28",
+            "id": "e097f8440fd26365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Alexandre Alex.md",
+                "file": "Historia/Dia 2 Terça-Feira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alexandre Alex"
-            }
-          },
-          {
-            "id": "276fb39165aefec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historia/Dia 3 Quarta-Feira.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dia 3 Quarta-Feira"
-            }
-          },
-          {
-            "id": "90709cb11c66a028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historia/Dia 4 Quinta-Feira.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dia 4 Quinta-Feira"
-            }
-          },
-          {
-            "id": "eeff45bd08da856e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historia/Dia 1 Segunda-Feira.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dia 1 Segunda-Feira"
-            }
-          },
-          {
-            "id": "00643e0fbe70da37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geral/GDD Da Prof.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GDD Da Prof"
+              "title": "Dia 2 Terça-Feira"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7baa1e157ed74e1f",
+    "id": "9aab21ee076173fb",
     "type": "split",
     "children": [
       {
-        "id": "385a716349dd25bd",
+        "id": "a589a44383a92a99",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c979c0b9b39456",
+            "id": "d4fd12222e816fc6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -129,7 +50,7 @@
             }
           },
           {
-            "id": "4324736d6f6a57ef",
+            "id": "86eaeb8399879824",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -146,7 +67,7 @@
             }
           },
           {
-            "id": "84c2cf2756b2f1cb",
+            "id": "0675316d763d2322",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -165,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "b168b622455a0b28",
+    "id": "2e0c8085522acac8",
     "type": "split",
     "children": [
       {
-        "id": "8283f7bf1d513d96",
+        "id": "dbe63586083cd418",
         "type": "tabs",
         "children": [
           {
-            "id": "5e277458a780ba33",
+            "id": "410cc78f424a2586",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Teresa Therese.md",
+                "file": "Historia/Dia 2 Terça-Feira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,12 +113,12 @@
             }
           },
           {
-            "id": "237ed50fe4b077a4",
+            "id": "a66c546637e6b2a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Teresa Therese.md",
+                "file": "Historia/Dia 2 Terça-Feira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +127,7 @@
             }
           },
           {
-            "id": "1acad632e7526cfb",
+            "id": "f281d913b3380216",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -221,7 +142,7 @@
             }
           },
           {
-            "id": "12ccdccb4d1bb287",
+            "id": "e7b0f6068e2eeec1",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -235,12 +156,12 @@
             }
           },
           {
-            "id": "175ba1f8c3425f1e",
+            "id": "3b829b8b132bc362",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Teresa Therese.md",
+                "file": "Historia/Dia 2 Terça-Feira.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -268,39 +189,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "00643e0fbe70da37",
+  "active": "e097f8440fd26365",
   "lastOpenFiles": [
-    "Personagens/João John.md",
-    "Personagens/Colegas.md",
-    "Personagens/Alexandre Alex.md",
-    "Personagens/Bartolomeu Bart.md",
-    "Personagens/Carlos Carl.md",
-    "Personagens/Maria Mary.md",
-    "Personagens/Protagonista.md",
-    "Personagens/Professor.md",
-    "Personagens/Teresa Therese.md",
-    "Geral/GDD Da Prof.md",
-    "Geral/Ideia Do Jogo.md",
-    "Mapas/Sala De Estar.md",
-    "Mapas/Quarto.md",
-    "Mapas/Sala De Aula.md",
-    "Historia/Dia 1.md",
-    "Sons/Porta abrir.md",
-    "Sons/passos.md",
-    "Sons/luta.md",
-    "Sons/Falar.md",
-    "Sons",
-    "Historia",
-    "ref-protagonista-v2.png",
-    "Historia/Dia 2 Terça-Feira.md",
     "Historia/Dia 1 Segunda-Feira.md",
-    "Historia/Dia 5 Sexta-Feira.md",
-    "Historia/Dia 4 Quinta-Feira.md",
-    "Historia/Dia 3 Quarta-Feira.md",
-    "Geral/Persona.md",
-    "Sem título.canvas",
-    "Imagens/ref-protagonista-v2.png",
-    "Imagens"
-    "ref-protagonista.png"
+    "Geral/Ideia Do Jogo.md",
+    "Historia/Dia 2 Terça-Feira.md",
+    "Imagens/ref-protagonista-v2.png"
   ]
 }
