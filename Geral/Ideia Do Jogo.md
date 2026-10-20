@@ -37,3 +37,9 @@ PS: fazer o demonio dar breakdance (kronk reference cosco)
 
 
 ideia de luta: fazer combos de teclas, ou para pressionar as teclas rapidamente, ou balançar o rato rapidamente e parar.
+
+**Timer nas escolhas de diálogo**
+
+- As respostas aparecem com uma barra a esgotar-se. Se o tempo acabar, o protagonista fica calado ou diz algo estranho, e sobe a ansiedade.
+- Nos dias mais avançados, o tempo para escolher encurta. Podes também esconder opções ao fim de uns segundos (as “boas” desaparecem primeiro).
+
