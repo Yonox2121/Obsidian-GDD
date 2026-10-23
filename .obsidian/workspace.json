@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Colegas.md",
+                "file": "Geral/Ideia Do Jogo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colegas"
+              "title": "Ideia Do Jogo"
+            }
+          },
+          {
+            "id": "bf201860660ab3d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas da versão 1.14.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,17 +202,23 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c5aff209d132408d",
+  "active": "bf201860660ab3d2",
   "lastOpenFiles": [
     "Geral/Persona.md",
+    "Sons/luta.md",
+    "Sons/Falar.md",
+    "Mapas/Sala De Estar.md",
+    "Mapas/Sala De Aula.md",
+    "Mapas/Quarto.md",
+    "Historia/Dia 4 Quinta-Feira.md",
+    "Historia/Dia 3 Quarta-Feira.md",
+    "Personagens/Teresa Therese.md",
+    "Personagens/Colegas.md",
     "Imagens/ref-protagonista-v2.png",
     "Sem título.canvas",
     "Personagens/Alexandre Alex.md",
-    "Personagens/Colegas.md",
-    "Historia/Dia 3 Quarta-Feira.md",
     "Historia/Dia 2 Terça-Feira.md",
     "Personagens/Protagonista.md",
-    "Personagens/Teresa Therese.md",
     "Personagens/Professor.md",
     "Personagens/Maria Mary.md",
     "Personagens/João John.md",
