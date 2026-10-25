@@ -25,12 +25,17 @@
             "id": "bf201860660ab3d2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.14.5"
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Notas da versão 1.14.5"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ],
@@ -204,17 +209,20 @@
   },
   "active": "bf201860660ab3d2",
   "lastOpenFiles": [
+    "Sem título 1.canvas",
+    "Geral/GDD Da Prof.md",
+    "Geral/Ideia Do Jogo.md",
     "Geral/Persona.md",
+    "Mapas/Sala De Aula.md",
+    "Imagens/ref-protagonista-v2.png",
     "Sons/luta.md",
     "Sons/Falar.md",
     "Mapas/Sala De Estar.md",
-    "Mapas/Sala De Aula.md",
     "Mapas/Quarto.md",
     "Historia/Dia 4 Quinta-Feira.md",
     "Historia/Dia 3 Quarta-Feira.md",
     "Personagens/Teresa Therese.md",
     "Personagens/Colegas.md",
-    "Imagens/ref-protagonista-v2.png",
     "Sem título.canvas",
     "Personagens/Alexandre Alex.md",
     "Historia/Dia 2 Terça-Feira.md",
