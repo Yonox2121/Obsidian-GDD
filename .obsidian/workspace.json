@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "75d724cef068cf84",
     "type": "split",
     "children": [
@@ -40,11 +41,32 @@
           }
         ],
         "currentTab": 1
+=======
+    "id": "59fc63c0da57353c",
+    "type": "split",
+    "children": [
+      {
+        "id": "672a2ffc1de47dfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a585059ba93496",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "2054918d5784d1e3",
     "type": "split",
     "children": [
@@ -54,6 +76,17 @@
         "children": [
           {
             "id": "69c3ea166b665e34",
+=======
+    "id": "fd16871dc809d175",
+    "type": "split",
+    "children": [
+      {
+        "id": "88fae40a2620353f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "348091495db9038d",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +101,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "15064f70abcb36bf",
+=======
+            "id": "6e02135df97486be",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -85,7 +122,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "f5b25fe3bb999244",
+=======
+            "id": "5a378a0d2aaf25d2",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,6 +145,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "504f620dbdaf5dc1",
     "type": "split",
     "children": [
@@ -113,11 +155,25 @@
         "children": [
           {
             "id": "67073c91e7a60364",
+=======
+    "id": "9f08391a7f5e53de",
+    "type": "split",
+    "children": [
+      {
+        "id": "a71a525065af4c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceed002be1962fbf",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Personagens/Colegas.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,12 +187,19 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "13ac2b180de79775",
+=======
+            "id": "93f1d471b5e0fdaa",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Personagens/Colegas.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -145,7 +208,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "acfa3d65a75ac603",
+=======
+            "id": "7f36eefef33717f9",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,7 +227,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "12ae506b6fd0639a",
+=======
+            "id": "a5e2216fd7bb1876",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -174,12 +245,19 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "f4183aafbfc88805",
+=======
+            "id": "312335bded99cf00",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Personagens/Colegas.md",
+=======
+>>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,6 +285,7 @@
       "bases:Criar nova base": false
     }
   },
+<<<<<<< Updated upstream
   "active": "bf201860660ab3d2",
   "lastOpenFiles": [
     "Sem título 1.canvas",
@@ -234,4 +313,8 @@
     "Personagens/Carlos Carl.md",
     "Historia/Dia 1 Segunda-Feira.md"
   ]
+=======
+  "active": "33a585059ba93496",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
